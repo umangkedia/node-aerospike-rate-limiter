@@ -1,7 +1,7 @@
 {
   "name": "node-aerospike-rate-limiter",
   "version": "1.0.0",
-  "description": "Rate Limiter built on top of aerospike",
+  "description": "Rate Limiter built on top of aerospike for node js",
   "main": "index.js",
   "author": "Umang Kedia",
   "repository": {
