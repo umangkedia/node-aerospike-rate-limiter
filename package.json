@@ -1,0 +1,25 @@
+{
+  "name": "node-aerospike-rate-limiter",
+  "version": "1.0.0",
+  "description": "Rate Limiter built on top of aerospike",
+  "main": "index.js",
+  "author": "Umang Kedia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umangkedia/node-aerospike-rate-limiter.git"
+  },
+  "keywords": [
+    "rate",
+    "limiter",
+    "rate limiter",
+    "aerospike",
+    "node",
+    "javascript"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "aerospike": "2.5.2",
+    "lodash": "4.13.1",
+    "log4js": "0.6.36"
+  }
+}
